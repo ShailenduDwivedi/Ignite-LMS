@@ -787,7 +787,7 @@ services
   text-align: center;
   color: #fff;
   padding: 40px;
-  max-width: 60%;
+  max-width: 31%;
   margin: 0 10px;
   display: inline-block;
 }
@@ -1093,7 +1093,6 @@ section.apply-now .item p {
 }
 .accordion-body {
   overflow: hidden;
-  height: 0;
   transition: height 300ms ease-in-out;
   border-bottom: 1px solid #fff;
 }
